@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Python dependency files
+*.pyc
+__pycache__/
+
+# Ignore IDE-specific files
+*.idea/
+.vscode/
+
+# Logs and runtime files
+*.log
+instance/
